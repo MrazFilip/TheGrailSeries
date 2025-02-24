@@ -585,9 +585,10 @@ table .wide {
     gap: 1rem;
 }
 
-.about p {
+.about pre {
     color: var(--text-secondary);
     text-align: justify;
+    white-space: pre-wrap;
 }
 
 .padding-1 {
@@ -633,7 +634,7 @@ table .wide {
         width: 125%;
         height: 125%;
         position: absolute;
-        transform: translateX(-12.5%) translateY(-12.5%);
+        transform: translateX(calc(-12.5% + 1px)) translateY(calc(-12.5% + 1px));
         border-radius: 100%;
         background: var(--gradient-primary);
     }
@@ -661,6 +662,19 @@ table .wide {
 }
 
 @media (max-width: 760px) {
+    .td-content img {
+        display: none;
+    }
+
+    h5 {
+        font-size: 1rem;
+    }
+
+    .profile .top {
+        flex-direction: column;
+        justify-content: center;
+    }
+
     .tournament-content {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(2, 1fr);

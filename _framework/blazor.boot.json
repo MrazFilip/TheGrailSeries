@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PragueDC",
   "resources": {
-    "hash": "sha256-4xFBlt4cqhw8aOpAVzXVvoLpWHhz36Fp3tNFi2mwePE=",
+    "hash": "sha256-eloAvuQBQKPtfAwLhpj7PDFuVUHgSw6PlgXZD9tHYdw=",
     "fingerprinting": {
       "CronExpressionDescriptor.bs7zmhz19b.wasm": "CronExpressionDescriptor.wasm",
       "Microsoft.AspNetCore.Components.wrfpd3sv6v.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -22,7 +22,7 @@
       "NCrontab.Signed.sso5cz1uir.wasm": "NCrontab.Signed.wasm",
       "netstandard.4bihm59iyi.wasm": "netstandard.wasm",
       "Newtonsoft.Json.qkbufwhni2.wasm": "Newtonsoft.Json.wasm",
-      "PragueDC.eqx4x3o2pf.wasm": "PragueDC.wasm",
+      "PragueDC.bkqjrgrng9.wasm": "PragueDC.wasm",
       "System.Collections.Concurrent.dtlyx5buga.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.7pu3oqzllx.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.NonGeneric.uml39a9tnh.wasm": "System.Collections.NonGeneric.wasm",
@@ -141,7 +141,7 @@
       "NCrontab.Signed.sso5cz1uir.wasm": "sha256-NGu7hUmiswbxVpi2p59nMDvn6IrEQ5CBkily+LZB/Pk=",
       "netstandard.4bihm59iyi.wasm": "sha256-EG/ooP5FWxj8DTLFvFSWafuF3zLhxrb5RZ/mYHz3pOY=",
       "Newtonsoft.Json.qkbufwhni2.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
-      "PragueDC.eqx4x3o2pf.wasm": "sha256-Os/z9kyYLsvfSpQUIhTwjSxiMpsUsIkGwqlh3jXRsHQ=",
+      "PragueDC.bkqjrgrng9.wasm": "sha256-O7h+3wAeDZFWrFuCwL/g+D5PpJRgzy0OmcFF43nA720=",
       "System.Collections.Concurrent.dtlyx5buga.wasm": "sha256-DzhrCSWFocf5MsYClPqSbb/oi1iMghifb2JBpBUD3Fg=",
       "System.Collections.Immutable.7pu3oqzllx.wasm": "sha256-1RHexqLNHbjGiFhVGnr0JdwEMvzUiLUY/ycIrm1O1ZA=",
       "System.Collections.NonGeneric.uml39a9tnh.wasm": "sha256-RnFDgR1ivQNPhqotX0L13hu3d8tHb6zwUmaZvs68J9A=",

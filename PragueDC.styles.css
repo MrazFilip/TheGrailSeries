@@ -139,7 +139,7 @@ img[b-fa9zwuxbv6] {
 
 @media (max-width: 760px) {
     .divide-nav[b-fa9zwuxbv6] {
-        margin: auto 1rem;
+        margin: auto 0;
         justify-content: center;
     }
 
