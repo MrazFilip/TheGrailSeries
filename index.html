@@ -5,14 +5,22 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PragueDC</title>
-    <base href="/PragueDC/" />
+    <script>
+        (function () {
+            const isLocalhost = window.location.hostname === "localhost";
+            const baseHref = isLocalhost ? "/" : "/PragueDC/";
+            const base = document.createElement('base');
+            base.href = baseHref;
+            document.head.appendChild(base);
+        })();
+    </script>
+
     <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="icon" type="image/png" href="czech dc league logo.png" />
     <link href="PragueDC.styles.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 </head>
-
 <body>
     <div id="app">
         <svg class="loading-progress">
