@@ -589,6 +589,10 @@ table .wide {
     gap: 1rem;
 }
 
+.about .time {
+    font-size: 1.5rem;
+}
+
 .about pre {
     color: var(--text-secondary);
     text-align: justify;

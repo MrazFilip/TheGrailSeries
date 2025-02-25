@@ -1,10 +1,10 @@
 {
   "mainAssemblyName": "PragueDC",
   "resources": {
-    "hash": "sha256-t7FE4ClLle2aQJ+gJJ5sL2+iPmNNwzZN5LYcf4XGfaY=",
+    "hash": "sha256-NAtuokUJ+Nt0mFJANnp7AF1Im1DLbTvml9vsHO4RyqY=",
     "fingerprinting": {
       "CronExpressionDescriptor.bs7zmhz19b.wasm": "CronExpressionDescriptor.wasm",
-      "Microsoft.AspNetCore.Components.wrfpd3sv6v.wasm": "Microsoft.AspNetCore.Components.wasm",
+      "Microsoft.AspNetCore.Components.4kaqm5gfqa.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.pq1s9tpl5w.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "Microsoft.CSharp.e7he3fzyl3.wasm": "Microsoft.CSharp.wasm",
@@ -22,7 +22,7 @@
       "NCrontab.Signed.sso5cz1uir.wasm": "NCrontab.Signed.wasm",
       "netstandard.4bihm59iyi.wasm": "netstandard.wasm",
       "Newtonsoft.Json.qkbufwhni2.wasm": "Newtonsoft.Json.wasm",
-      "PragueDC.i2wd960rcm.wasm": "PragueDC.wasm",
+      "PragueDC.561xfe26l6.wasm": "PragueDC.wasm",
       "System.Collections.Concurrent.dtlyx5buga.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.7pu3oqzllx.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.NonGeneric.uml39a9tnh.wasm": "System.Collections.NonGeneric.wasm",
@@ -123,7 +123,7 @@
     },
     "assembly": {
       "CronExpressionDescriptor.bs7zmhz19b.wasm": "sha256-1cP7pGwNoXaEyA1ZelzKHaYDkN//O11XLJ9BB/DMXFc=",
-      "Microsoft.AspNetCore.Components.wrfpd3sv6v.wasm": "sha256-5EqvRk9iILisQ0JGMhLz/Iu1Nz0JEHty3/cUeZ5wcaE=",
+      "Microsoft.AspNetCore.Components.4kaqm5gfqa.wasm": "sha256-DH5r5wSBHrvU0FTrfg8iAi1EFhnGMmEJOq7KjkTxzIw=",
       "Microsoft.AspNetCore.Components.Web.pq1s9tpl5w.wasm": "sha256-L/vXNWFdWzaeEfyWsCdr4529OiDf9c+AR/CT6Lw5ZCw=",
       "Microsoft.AspNetCore.Components.WebAssembly.z581my2xiy.wasm": "sha256-aSLzjUG9SRyTc6qmnRkw0fCu/QiARR+wEaE+AiYbioU=",
       "Microsoft.CSharp.e7he3fzyl3.wasm": "sha256-ZoJUA4VULgulybAllLSm5meTx2rLjawfaaDK800P/Gc=",
@@ -141,7 +141,7 @@
       "NCrontab.Signed.sso5cz1uir.wasm": "sha256-NGu7hUmiswbxVpi2p59nMDvn6IrEQ5CBkily+LZB/Pk=",
       "netstandard.4bihm59iyi.wasm": "sha256-EG/ooP5FWxj8DTLFvFSWafuF3zLhxrb5RZ/mYHz3pOY=",
       "Newtonsoft.Json.qkbufwhni2.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
-      "PragueDC.i2wd960rcm.wasm": "sha256-Ztu6FuGsitD00r0I5DRD8red9GShF9mMle35T4RPLF4=",
+      "PragueDC.561xfe26l6.wasm": "sha256-LYvtzkS5gthaY4t7tNTzUBvCDJ9XrCOfa2HSiMtp7Y8=",
       "System.Collections.Concurrent.dtlyx5buga.wasm": "sha256-DzhrCSWFocf5MsYClPqSbb/oi1iMghifb2JBpBUD3Fg=",
       "System.Collections.Immutable.7pu3oqzllx.wasm": "sha256-1RHexqLNHbjGiFhVGnr0JdwEMvzUiLUY/ycIrm1O1ZA=",
       "System.Collections.NonGeneric.uml39a9tnh.wasm": "sha256-RnFDgR1ivQNPhqotX0L13hu3d8tHb6zwUmaZvs68J9A=",
