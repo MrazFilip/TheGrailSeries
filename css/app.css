@@ -20,6 +20,10 @@ h1, h2, h3, h4, h5, h6 {
     margin: unset !important;
 }
 
+.page {
+    min-height: 100vh;
+}
+
 html, body {
     font-family: Helvetica, sans-serif;
     background-color: var(--background-primary);
@@ -128,7 +132,7 @@ a, .btn-link {
     position: absolute;
     text-align: center;
     font-weight: bold;
-    inset: calc(20vh + 4.5rem) 0 auto 0.2rem;
+    inset: calc(20vh + 3.25rem) 0 auto 0.2rem;
 }
 
     .loading-progress-text:after {
@@ -589,6 +593,7 @@ table .wide {
     color: var(--text-secondary);
     text-align: justify;
     white-space: pre-wrap;
+    font-family: Helvetica, sans-serif;
 }
 
 .padding-1 {
@@ -607,7 +612,7 @@ table .wide {
 .tournament-content {
     display: grid;
     gap: 1rem;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     align-items: center;
     justify-content: center;
 }
@@ -645,6 +650,14 @@ table .wide {
     justify-content: center;
 }
 
+.button-wrapper h1 {
+    background: var(--background-surface-1);
+    padding: 0.5rem;
+    border-radius: var(--border-radius);
+    border: var(--border-primary);
+    letter-spacing: 4px;
+}
+
 .gradient-button {
     all: unset;
     padding: 0.5rem 1.5rem;
@@ -659,6 +672,11 @@ table .wide {
     .desktop-only {
         display: none;
     }
+
+    .tournament-content {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
 }
 
 @media (max-width: 760px) {
@@ -672,12 +690,7 @@ table .wide {
 
     .profile .top {
         flex-direction: column;
-        justify-content: center;
-    }
-
-    .tournament-content {
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(2, 1fr);
+        align-items: center;
     }
 
     .tournament-content div, .tournament-content a {
