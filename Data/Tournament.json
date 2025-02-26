@@ -78,5 +78,21 @@
         "leagueCode": 1,
         "entry": 1200,
         "limit": 80
+    }, 
+     {
+        "date": "2025-03-29T00:00:00",
+        "id": 106,
+        "name": "Duel of Dragons",
+        "organizer": "MtG SK",
+        "organizerLink": "https://www.mtg.sk/article/Duel-of-Dragons",
+        "link": "https://www.mtg.sk/article/Duel-of-Dragons",
+        "logo": "Logos/duel_of_dragons.jpg",
+        "description": "V roku 2025 nás v Cloudposte čaká séria veľkých Duel Commander turnajov. Počas celého roka 2025 sa bude hrať o ceny v hodnote viac ako <b>15000€</b>, z ktorých budú pre najlepších 16 hráčov čakať karty za viac ako <b>7000€ </b> na finálovom turnaji!\n\nNa prvý turnaj, ktorý bude 29.3. sa prosím predregistrujte cez tento <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdzfz-Zr2I7NXhnoZZOK8h0N9dDd40YjJLrUHLgJjm3Qh4lEg/viewform\">google formulár</a>, aby sme vedeli pripraviť čo najlepšie podmienky na hranie.\n\nAk by ste mali akékoľvek otázky, napíšte nám na <a href=\"mailto:cloudpost@cloudpost.sk\">email</a>",
+        "address": "https://www.google.com/maps/place/Cloudpost/@48.1692368,17.1371591,17z/data=!3m1!4b1!4m6!3m5!1s0x476c89323b311b3f:0x45a2f973579f02d0!8m2!3d48.1692368!4d17.1397394!16s%2Fg%2F11hyt0tb_r?entry=ttu&g_ep=EgoyMDI1MDIyMy4xIKXMDSoASAFQAw%3D%3D",
+        "regTime": "10:00:00",
+        "startTime": "11:00:00",
+        "leagueCode": 1,
+        "entry": 350,
+        "limit": 100
     }
 ]
