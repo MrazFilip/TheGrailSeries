@@ -1,8 +1,8 @@
-﻿[
+[
     {
         "date": "2025-03-22T00:00:00",
         "id": 100,
-        "name": "Prague DC Series 1",
+        "name": "Prague DC Series - March",
         "organizer": "Prague DC Series",
         "organizerLink": "https://www.facebook.com/people/Prague-DC-Series/61572945407797/?locale=cs_CZ",
         "link": "https://www.facebook.com/events/1280211743090534/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A3521991911435887%7D%7D]%22%7D",
@@ -94,5 +94,76 @@
         "leagueCode": 1,
         "entry": 350,
         "limit": 100
-    }
+    },  
+    {
+        "date": "2025-03-01T00:00:00",
+        "id": 107,
+        "name": "Blood Moon DC",
+        "organizer": "Marek Voráček",
+        "organizerLink": "https://www.facebook.com/marek.voracek.7",
+        "link": "https://blood-moon.cz/turnaje/152",
+        "logo": "Logos/blood-moon.png",
+        "description": "Sobotní turnájek v Duel Commanderu\n\nBude se hrát švýcarským systémem párování bez TOP 8\n\nPočet kol: 3 (do 8 hráčů), 4 (9-16 hráčů) nebo 5 (17-32 hráčů)\n\nREL: regular\n\nDecklisty: budou vyžadovány pouze po několika nejlepších a následně zvěčněny na mtgtop8.com\n\nNa Duelech je možnost použít až 15 proxy karet (Ale pozor, povoleny budou pouze proxy kvalitní, kdo s nimi přijde má povinnost je před začátkem nahlásit judgeovi, který zkontroluje zda je vše ok, s tím že případné nevyhovující bude muset hráč nahradit)",
+        "address": "https://www.google.com/maps/search/?api=1&query=Hradebn%C3%AD%20341%2F17%20370%2001%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "regTime": "10:00:00",
+        "startTime": "10:30:00",
+        "leagueCode": 1,
+        "entry": 250,
+        "limit": 18
+    }, 
+
+
+{
+        "date": "2025-03-15T00:00:00",
+        "id": 108,
+        "name": "Blood Moon DC",
+        "organizer": "Marek Voráček",
+        "organizerLink": "https://www.facebook.com/marek.voracek.7",
+        "link": "https://blood-moon.cz/turnaje/152",
+        "logo": "Logos/blood-moon.png",
+        "description": "Sobotní turnájek v Duel Commanderu\n\nBude se hrát švýcarským systémem párování bez TOP 8\n\nPočet kol: 3 (do 8 hráčů), 4 (9-16 hráčů) nebo 5 (17-32 hráčů)\n\nREL: regular\n\nDecklisty: budou vyžadovány pouze po několika nejlepších a následně zvěčněny na mtgtop8.com\n\nNa Duelech je možnost použít až 15 proxy karet (Ale pozor, povoleny budou pouze proxy kvalitní, kdo s nimi přijde má povinnost je před začátkem nahlásit judgeovi, který zkontroluje zda je vše ok, s tím že případné nevyhovující bude muset hráč nahradit)",
+        "address": "https://www.google.com/maps/search/?api=1&query=Hradebn%C3%AD%20341%2F17%20370%2001%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "regTime": "10:00:00",
+        "startTime": "10:30:00",
+        "leagueCode": 1,
+        "entry": 250,
+        "limit": 18
+    }, 
+
+{
+       "date": "2025-04-12T00:00:00",
+        "id": 109,
+        "name": "Blood Moon DC",
+        "organizer": "Marek Voráček",
+        "organizerLink": "https://www.facebook.com/marek.voracek.7",
+        "link": "https://blood-moon.cz/turnaje/152",
+        "logo": "Logos/blood-moon.png",
+        "description": "Sobotní turnájek v Duel Commanderu\n\nBude se hrát švýcarským systémem párování bez TOP 8\n\nPočet kol: 3 (do 8 hráčů), 4 (9-16 hráčů) nebo 5 (17-32 hráčů)\n\nREL: regular\n\nDecklisty: budou vyžadovány pouze po několika nejlepších a následně zvěčněny na mtgtop8.com\n\nNa Duelech je možnost použít až 15 proxy karet (Ale pozor, povoleny budou pouze proxy kvalitní, kdo s nimi přijde má povinnost je před začátkem nahlásit judgeovi, který zkontroluje zda je vše ok, s tím že případné nevyhovující bude muset hráč nahradit)",
+        "address": "https://www.google.com/maps/search/?api=1&query=Hradebn%C3%AD%20341%2F17%20370%2001%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "regTime": "10:00:00",
+        "startTime": "10:30:00",
+        "leagueCode": 1,
+        "entry": 250,
+        "limit": 18
+
+    }, 
+
+
+{
+        "date": "2025-03-01T00:00:00",
+        "id": 110,
+        "name": "MTG Duel Commander",
+        "organizer": "Dračí Jezkyně",
+        "organizerLink": "https://dracijeskyne.cz/turnaje/",
+        "link": "https://dracijeskyne.cz/turnaje/",
+        
+        "description": "Registrace: 13:30\nStart: 14:00\n\nFormát: French Duel Commander\n\nCeny: 125 Kredit na hráče. Následně rozděleno dle umístění a počtu hráčů.\nStartovné: 100,-\n\nPravidla a banlist dle French Duel Commander",
+        "address": "https://www.google.com/maps?ll=50.137562,14.515307&z=15&t=m&hl=en&gl=CZ&mapclient=embed&cid=17679589904700170283",
+        "regTime": "13:30:00",
+        "startTime": "14:00:00",
+        "leagueCode": 1,
+        "entry": 100,
+        "limit": 28
+    }, 
+
 ]
