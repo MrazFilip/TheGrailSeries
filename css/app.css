@@ -581,6 +581,7 @@ table .wide {
 .profile img {
     max-width: 200px;
     object-fit: contain;
+    border-radius: var(--border-radius);
 }
 
 .profile .top {
@@ -684,6 +685,10 @@ table .wide {
 }
 
 @media (max-width: 760px) {
+    .profile img {
+        border-radius: 50%;
+    }
+
     .td-content img {
         display: none;
     }

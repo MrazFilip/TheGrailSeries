@@ -37,7 +37,6 @@ a[b-zb6kjcp4k7] {
 
 main[b-7bx73v90py] {
     flex: 1;
-    margin-bottom: 3rem;
 }
 
 .topnav[b-7bx73v90py] {
@@ -50,7 +49,7 @@ main[b-7bx73v90py] {
 
 .footer-nav[b-7bx73v90py] {
     width: 100%;
-    position: absolute;
+    position: relative;
     bottom: 0;
 }
 
