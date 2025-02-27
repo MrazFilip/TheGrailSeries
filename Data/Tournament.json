@@ -92,8 +92,9 @@
         "regTime": "10:00:00",
         "startTime": "11:00:00",
         "leagueCode": 1,
-        "entry": 350,
-        "limit": 100
+        "entry": 15,
+        "limit": 100,
+        "currencyCode": 1
     },  
     {
         "date": "2025-03-01T00:00:00",
