@@ -112,7 +112,7 @@
         "entry": 250,
         "limit": 18
     }, 
-{
+    {
         "date": "2025-03-15T00:00:00",
         "id": 108,
         "name": "Blood Moon DC",
@@ -128,8 +128,7 @@
         "entry": 250,
         "limit": 18
     }, 
-
-{
+    {
        "date": "2025-04-12T00:00:00",
         "id": 109,
         "name": "Blood Moon DC",
@@ -146,9 +145,7 @@
         "limit": 18
 
     }, 
-
-
-{
+    {
         "date": "2025-03-01T00:00:00",
         "id": 110,
         "name": "MTG Duel Commander",
@@ -179,8 +176,7 @@
         "entry": 400,
         "limit": 64
     }, 
-
-{
+    {
         "date": "2025-04-26T00:00:00",
         "id": 115,
         "name": "NAJÁDA Duel Commander League 2025 - Hradec",
@@ -195,8 +191,7 @@
         "entry": 500,
         "limit": 64
     }, 
-
-{
+    {
         "date": "2025-05-17T00:00:00",
         "id": 116,
         "name": "Duel of Dragons Qualifier 2",
@@ -211,8 +206,7 @@
         "entry": 375,
         "limit": 150
     }, 
-
-{
+    {
         "date": "2025-04-12T00:00:00",
         "id": 117,
         "name": "Blood Moon DC",
@@ -228,9 +222,7 @@
         "entry": 250,
         "limit": 20
     }, 
-
-
-{
+    {
         "date": "2025-05-03T00:00:00",
         "id": 118,
         "name": "Blood Moon DC",
@@ -246,5 +238,4 @@
         "entry": 250,
         "limit": 20
     }
-   
 ]
