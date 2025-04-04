@@ -112,8 +112,6 @@
         "entry": 250,
         "limit": 18
     }, 
-
-
 {
         "date": "2025-03-15T00:00:00",
         "id": 108,
@@ -165,5 +163,88 @@
         "leagueCode": 1,
         "entry": 100,
         "limit": 28
+    }, 
+    {
+        "date": "2025-04-20T00:00:00",
+        "id": 114,
+        "name": "#3 Hradubice Duel Commander Series @Tolarie",
+        "organizer": " Tolarie.cz",
+        "organizerLink": "https://www.facebook.com/tolarie",
+        "link": "https://www.facebook.com/events/1467698097159810?active_tab=about",
+	"description": "Zveme všechny příznivce a milovníky karetní hry Magic the Gathering na třetí ročník série turnajů ve formátů DUEL COMMANDER pořádaný hernami Tolarie a UNTAP.\nHraje se osm samostatných turnajů během roku 2024 (HK + PCE). V rámci jednotlivých turnajů se bojuje o místa na finálový turnaj, který se bude konat na konci roku 2024. Kvalifikovat se na finálový turnaj je možné i v případě, že nemáte prostor účastnit se většiny turnajů série, takže určitě neváhejte přijet.\n\n<a href=\\\" https://www.tolarie.cz/clanky_videa/pozvanka-treti-rocnik-hradubicke-edh-serie/ \">Podrobnosti k bodování v rámci série naleznete zde </a>\n\n<a href=\\\" https://docs.google.com/spreadsheets/d/1Biknx7_R0-ckMvg8eB6iGP9KwTjg-Qg623dpRCEGSxk/edit?gid=0#gid=0 \">Aktuální pořadí v sérii najdete zde </a>\n\n\nJedná se v pořadí o třetí turnaj třetího ročníku.",
+        "address": "https://www.google.com/maps/place/Labsk%C3%A1+15,+530+02+Pardubice+I/@50.0413218,15.7779442,17z/data=!3m1!4b1!4m6!3m5!1s0x470dccec3a05b69f:0x1e3c109a0c8c8668!8m2!3d50.0413184!4d15.7805191!16s%2Fg%2F11jcrt9n14?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+        "regTime": "09:30:00",
+        "startTime": "10:00:00",
+        "leagueCode": 1,
+        "entry": 400,
+        "limit": 64
+    }, 
+
+{
+        "date": "2025-04-26T00:00:00",
+        "id": 115,
+        "name": "NAJÁDA Duel Commander League 2025 - Hradec",
+        "organizer": "UNTAP",
+        "organizerLink": "https://www.facebook.com/UNTAP.cz",
+        "link": "https://www.facebook.com/events/959711805727328/?acontext=%7B%22action_history%22%3A%22null%22%7D&ref_source=newsfeed&ref_mechanism=feed_attachment&_rdr",
+	"description": "Zveme Vás na DUEL COMMANDER do Hradce Králové. Jedná se o turnaj, který je součástí celoroční série NAJÁDA Duel Commander League 2025.\nDatum turnaje: 26. 4. 2025 v sobotu\nregistrace od 10:30, začátek turnaje 11:00\nBudeme hrát v restauraci U Pilnáčka, hned vedle naší herny UNTAP.",
+        "address": "https://www.google.com/maps/place/8,+Posp%C3%AD%C5%A1ilova+281,+500+03+Hradec+Kr%C3%A1lov%C3%A9+3/@50.2144521,15.8422204,17z/data=!3m1!4b1!4m5!3m4!1s0x470dd4d4488bceb9:0xc004c52f56abe91d!8m2!3d50.2144487!4d15.8447953?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+        "regTime": "10:30:00",
+        "startTime": "11:00:00",
+        "leagueCode": 1,
+        "entry": 500,
+        "limit": 64
+    }, 
+
+{
+        "date": "2025-05-17T00:00:00",
+        "id": 116,
+        "name": "Duel of Dragons Qualifier 2",
+        "organizer": "Cloudpost Bratislava",
+        "organizerLink": "https://www.facebook.com/cloudpostBA/",
+        "link": "https://www.mtg.sk/tournament/679d0d4660f7ad20db3cd61a",
+	"description": "Přijďte zabojovat na DDQ ve formátu Duel Commander! Celé startovné půjde na ceny, přičemž vítěz bude mít garantovaný Revised Dual! Pokud se však zúčastní více než 40 hráčů, bude pro vítěze připrave modrý Dual, naposledy se zúčastnilo 120 hráčů!!!. Sponzor turnaje Duel of Dragons navíc přidá 300 € do prize poolu a dva nejlepší hráči se kvalifikují do 16členného finále o ceny v hodnotě přes 7 tisíc €!",
+        "address": "https://www.google.com/maps/place/Cloudpost/@48.1692403,17.1348685,17z/data=!3m1!4b1!4m6!3m5!1s0x476c89323b311b3f:0x45a2f973579f02d0!8m2!3d48.1692368!4d17.1397394!16s%2Fg%2F11hyt0tb_r?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+        "regTime": "10:30:00",
+        "startTime": "11:00:00",
+        "leagueCode": 1,
+        "entry": 375,
+        "limit": 150
+    }, 
+
+{
+        "date": "2025-04-12T00:00:00",
+        "id": 117,
+        "name": "Blood Moon DC",
+        "organizer": "Marek Voráček",
+        "organizerLink": "https://www.facebook.com/marek.voracek.7",
+        "link": "https://blood-moon.cz/turnaje/152",
+        "logo": "Logos/blood-moon.png",
+        "description": Sobotní turnájek v Duel Commanderu\n\nBude se hrát švýcarským systémem párování bez TOP 8\n\nPočet kol: 3 (do 8 hráčů), 4 (9-16 hráčů) nebo 5 (17-32 hráčů)\n\nREL: regular\n\nDecklisty: budou vyžadovány pouze po několika nejlepších a následně zvěčněny na mtgtop8.com\n\nNa Duelech je možnost použít až 15 proxy karet (Ale pozor, povoleny budou pouze proxy kvalitní, kdo s nimi přijde má povinnost je před začátkem nahlásit judgeovi, který zkontroluje zda je vše ok, s tím že případné nevyhovující bude muset hráč nahradit)",
+        "address": "https://www.google.com/maps/search/?api=1&query=Hradebn%C3%AD%20341%2F17%20370%2001%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "regTime": "10:00:00",
+        "startTime": "10:30:00",
+        "leagueCode": 1,
+        "entry": 250,
+        "limit": 20
+    }, 
+
+
+{
+        "date": "2025-05-03T00:00:00",
+        "id": 107,
+        "name": "Blood Moon DC",
+        "organizer": "Marek Voráček",
+        "organizerLink": "https://www.facebook.com/marek.voracek.7",
+        "link": "https://blood-moon.cz/turnaje/152",
+        "logo": "Logos/blood-moon.png",
+        "description": Sobotní turnájek v Duel Commanderu\n\nBude se hrát švýcarským systémem párování bez TOP 8\n\nPočet kol: 3 (do 8 hráčů), 4 (9-16 hráčů) nebo 5 (17-32 hráčů)\n\nREL: regular\n\nDecklisty: budou vyžadovány pouze po několika nejlepších a následně zvěčněny na mtgtop8.com\n\nNa Duelech je možnost použít až 15 proxy karet (Ale pozor, povoleny budou pouze proxy kvalitní, kdo s nimi přijde má povinnost je před začátkem nahlásit judgeovi, který zkontroluje zda je vše ok, s tím že případné nevyhovující bude muset hráč nahradit)",
+        "address": "https://www.google.com/maps/search/?api=1&query=Hradebn%C3%AD%20341%2F17%20370%2001%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "regTime": "10:00:00",
+        "startTime": "10:30:00",
+        "leagueCode": 1,
+        "entry": 250,
+        "limit": 20
     }
+   
 ]
