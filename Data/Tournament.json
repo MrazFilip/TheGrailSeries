@@ -224,21 +224,5 @@
         "leagueCode": 1,
         "entry": 250,
         "limit": 20
-    }, 
-    {
-        "date": "2025-05-03T00:00:00",
-        "id": 118,
-        "name": "Blood Moon DC",
-        "organizer": "Marek Voráček",
-        "organizerLink": "https://www.facebook.com/marek.voracek.7",
-        "link": "https://blood-moon.cz/turnaje/152",
-        "logo": "Logos/blood-moon.png",
-        "description": "Sobotní turnájek v Duel Commanderu\n\nBude se hrát švýcarským systémem párování bez TOP 8\n\nPočet kol: 3 (do 8 hráčů), 4 (9-16 hráčů) nebo 5 (17-32 hráčů)\n\nREL: regular\n\nDecklisty: budou vyžadovány pouze po několika nejlepších a následně zvěčněny na mtgtop8.com\n\nNa Duelech je možnost použít až 15 proxy karet (Ale pozor, povoleny budou pouze proxy kvalitní, kdo s nimi přijde má povinnost je před začátkem nahlásit judgeovi, který zkontroluje zda je vše ok, s tím že případné nevyhovující bude muset hráč nahradit)",
-        "address": "https://www.google.com/maps/search/?api=1&query=Hradebn%C3%AD%20341%2F17%20370%2001%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "regTime": "10:00:00",
-        "startTime": "10:30:00",
-        "leagueCode": 1,
-        "entry": 250,
-        "limit": 20
     }
 ]
