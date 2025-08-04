@@ -97,6 +97,35 @@ main[b-7bx73v90py] {
     }
 }
 /* /Layout/NavMenu.razor.rz.scp.css */
+h2[b-fa9zwuxbv6] {
+    color: white;
+}
+
+.relative[b-fa9zwuxbv6] {
+    position: relative;
+}
+
+.site-name[b-fa9zwuxbv6] {
+    z-index: 100;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.background-crown[b-fa9zwuxbv6] {
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-40%);
+    text-align: center;
+    display: block;
+}
+
+    .background-crown span[b-fa9zwuxbv6] {
+        color: var(--color-prague-dc);
+        user-select: none;
+        font-size: 3rem;
+    }
+
 .navbar-toggler[b-fa9zwuxbv6] {
     background-color: rgba(255, 255, 255, 0.1);
 }
@@ -176,6 +205,8 @@ img[b-fa9zwuxbv6] {
 
 @media (max-width: 760px) {
     .divide-nav[b-fa9zwuxbv6] {
+        flex-direction: column;
+        gap: 1rem;
         margin: auto 0;
         justify-content: center;
     }

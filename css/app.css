@@ -1,5 +1,5 @@
 :root, html[data-theme="0"] {
-    --color-prague-dc: gold;
+    --color-prague-dc: #FFD700;
     --color-primary: #7469B6;
     --color-secondary: #AD88C6;
     --gradient-primary: linear-gradient(135deg, var(--color-primary) 20%, var(--color-secondary) 80%);
@@ -10,10 +10,11 @@
     --background-surface-2: #262626;
     --color-border: #303030;
     --color-border-secondary: #525252;
-    --border-primary: 2px solid var(--color-border);
-    --border-secondary: 1px solid var(--color-border-secondary);
+    --border-primary: 3px solid var(--color-border);
+    --border-secondary: 2px solid var(--color-border-secondary);
     --border-radius: 0.5rem;
     --border-width: 4px;
+    --mud-palette-surface: var(--background-primary) !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -32,7 +33,7 @@ img {
 
 html, body {
     font-family: Helvetica, sans-serif;
-    background-color: var(--background-primary);
+    background-color: var(--background-primary) !important;
 }
 
 *::selection {
@@ -40,9 +41,12 @@ html, body {
     color: var(--text-primary);
 }
 
+/*
 .center * {
     color: var(--text-primary);
 }
+*/
+
 
 p {
     all: unset;
@@ -231,6 +235,29 @@ h3 {
     font-weight: bolder;
 }
 
+.table-wrapper {
+    margin-top: 1rem;
+    border: var(--border-primary) !important;
+    border-radius: var(--border-radius) !important;
+}
+
+table {
+    overflow:hidden;
+}
+
+thead {
+    background: var(--background-surface-1);
+}
+
+th:not(:first-child), td:not(:first-child) {
+    border-left: var(--border-secondary);
+}
+
+tr:not(:first-child), tr:not(:last-child) {
+    border-bottom: var(--border-primary);
+}
+
+/*
 table {
     width: 100% !important;
     border-collapse: collapse;
@@ -306,6 +333,7 @@ table p {
     display: flex;
     align-items: center;
 }
+*/
 
 span {
     white-space:nowrap;
@@ -427,6 +455,11 @@ table .wide {
 
 .news * {
     color: var(--text-primary);
+}
+
+.news-carousel {
+    border: var(--border-primary);
+    border-radius: var(--border-radius);
 }
 
 .calendar {
