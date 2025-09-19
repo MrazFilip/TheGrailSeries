@@ -1,0 +1,13 @@
+Name,ProfilePicture,TournamentName,TournamentLink,Placement,Wins,Losses,Draws,Points,DeckLink,LeaguePlayer
+Filip Mráz,,Grail 1,,4,8,9,5,71,,True
+Filip Mráz,,Grail 2,https://mtgtop8.com,15,4,1,0,100,https://mtgtop8.com,True
+Filip Mráz,,Grail 3,https://mtgtop8.com,4,8,1,5,10,https://mtgtop8.com,True
+Marek Majer,ProfilePics/MarekMajer.png,Grail 1,https://mtgtop8.com,1,30,5,2,10,,True
+Marek Majer,ProfilePics/MarekMajer.png,Grail 2,https://mtgtop8.com,2,20,2,5,28,,True
+Marek Majer,ProfilePics/MarekMajer.png,Grail 3,https://mtgtop8.com,3,15,1,8,67,,True
+Metju Grygar,,Grail 1,https://mtgtop8.com,10,5,5,1,78,https://mtgtop8.com,False
+Metju Grygar,,Grail 2,https://mtgtop8.com,65,9,4,6,16,https://mtgtop8.com,False
+Metju Grygar,,Grail 3,https://mtgtop8.com,4,10,4,7,199,https://mtgtop8.com,False
+Tomáš Mot,,Grail 1,https://mtgtop8.com,50,4,8,5,17,https://mtgtop8.com,False
+Tomáš Mot,,Grail 2,https://mtgtop8.com,22,2,4,4,98,https://mtgtop8.com,False
+Tomáš Mot,,Grail 3,https://mtgtop8.com,14,6,7,2,17,https://mtgtop8.com,False
