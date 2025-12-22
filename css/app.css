@@ -712,6 +712,10 @@ table .wide {
     position: relative;
 }
 
+.phone-only {
+    display: none;
+}
+
 @media (max-width: 1272px) {
     .desktop-only {
         display: none;
@@ -765,6 +769,10 @@ table .wide {
 
     .wide-only {
         display: none;
+    }
+
+    .phone-only {
+        display: block;
     }
 
     .upcomming-events .event-row .text-wrapper {

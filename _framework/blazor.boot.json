@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PragueDC",
   "resources": {
-    "hash": "sha256-iMda8LDl+Qxq0LomwbnRIKPPR4kv3V3oXgs7o3hTpCk=",
+    "hash": "sha256-UymUdNUvWPXXXTfwxenJCNP2mr9cu4hZlJ8pj9ylyLA=",
     "fingerprinting": {
       "CronExpressionDescriptor.bs7zmhz19b.wasm": "CronExpressionDescriptor.wasm",
       "Microsoft.AspNetCore.Components.o2fijm1uld.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -75,7 +75,7 @@
       "System.t4d4s3f398.wasm": "System.wasm",
       "netstandard.ngspe3tay8.wasm": "netstandard.wasm",
       "System.Private.CoreLib.l031xx33j1.wasm": "System.Private.CoreLib.wasm",
-      "PragueDC.cq5jh7zfuo.wasm": "PragueDC.wasm",
+      "PragueDC.5v54whgos3.wasm": "PragueDC.wasm",
       "CronExpressionDescriptor.resources.fe4djve4be.wasm": "CronExpressionDescriptor.resources.wasm",
       "CronExpressionDescriptor.resources.320ac772f7.wasm": "CronExpressionDescriptor.resources.wasm",
       "CronExpressionDescriptor.resources.7fybzlwiv1.wasm": "CronExpressionDescriptor.resources.wasm",
@@ -199,7 +199,7 @@
       "System.Xml.XDocument.rq3uoqeade.wasm": "sha256-jXHocYVCS/ThppEaX8pR/Ky4h/AvzicYqHMda1gq83I=",
       "System.t4d4s3f398.wasm": "sha256-fVP2BxRRKpBA0PmBbKxmO45bXDrAXVn1GthlDclLbeU=",
       "netstandard.ngspe3tay8.wasm": "sha256-qZlR9WwE7taMckkb2o6NV3VLCjdKMdoKqi3RMOgFg30=",
-      "PragueDC.cq5jh7zfuo.wasm": "sha256-xMB+9zVeW/lLZrhcfINjI1pAtEMFPAMLsNRKWIM+/68="
+      "PragueDC.5v54whgos3.wasm": "sha256-sfrqyhML4bRdZqdtlgMSMNor48qLlTbDvRKVnRasJNM="
     },
     "satelliteResources": {
       "cs": {
